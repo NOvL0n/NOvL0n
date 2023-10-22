@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NOvL0n, currently an A Level Student studying CS
+- 👀 I’m interested in Front-End Developing and AI/ML
+- 🌱 I’m currently learning Python and HTML/CSS
+- 💞️ I’m not looking to collaborate currently as I am still a beginner.
+- 📫 How to reach me: vonchamp09@gmail.com
